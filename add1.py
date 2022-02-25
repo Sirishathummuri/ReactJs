@@ -1,1 +1,5 @@
-print(10+20)
+def add(a,b):
+  print(a+b)
+a=10
+b=30
+add(a,b)
